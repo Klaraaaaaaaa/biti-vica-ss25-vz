@@ -89,4 +89,4 @@ Hier sieht man unter anderem, dass Tiktok mit einem Bußgeld von 530 Millionen b
 
 <sup>7</sup> [enforcementtracker.com | GDPR Enforcement Tracker](https://www.enforcementtracker.com/)
 
-<sup>8</sup>[SPIEGEL | TikTok muss wegen Datenschutzverstößen 530 Millionen Euro Strafe zahlen](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-muss-wegen-datenschutzverstoessen-530-millionen-euro-strafe-zahlen-a-e867b70a-f4a4-4f5d-ba87-d099776e1c63=)
+<sup>8</sup> [SPIEGEL | TikTok muss wegen Datenschutzverstößen 530 Millionen Euro Strafe zahlen](https://www.spiegel.de/netzwelt/netzpolitik/tiktok-muss-wegen-datenschutzverstoessen-530-millionen-euro-strafe-zahlen-a-e867b70a-f4a4-4f5d-ba87-d099776e1c63=)
